@@ -1,0 +1,14 @@
+layout_spectrum: 0.1956155
+color:
+  saturation: 0.08684655
+  brandStrength: 0.8612449
+  lightness: 0.7563238
+  rhythmicContrast: 0.8236008
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.505059
+name: Billy Ives
